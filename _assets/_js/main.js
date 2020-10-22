@@ -1,0 +1,1 @@
+// Este script será chamado em todas as páginas
