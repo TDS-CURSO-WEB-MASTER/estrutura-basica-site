@@ -1,7 +1,6 @@
 <?php
 	
 require_once __DIR__.'/connection.php';
-require_once __DIR__.'/../functions/functions.php';
 
 //Deleta registros
 function DBDelete($table, $where = null){

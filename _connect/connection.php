@@ -1,6 +1,11 @@
 <?php 
-	
-require_once __DIR__.'./config.php';
+require_once __DIR__.'/../functions/functions.php';
+if(file_exists(__DIR__.'./config.php')){
+    die;
+    require_once __DIR__.'./config.php';
+}else{
+    header("Location: ". base_url('conexao'));
+}
 
 //Proteção contra SQLInjection
 function DBEscape($dados){
