@@ -1,0 +1,1 @@
+# neste diretório vai todos os arquivos que serão reutilizáveis

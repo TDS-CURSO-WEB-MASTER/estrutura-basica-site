@@ -1,0 +1,1 @@
+# jogue este arquivo na raiz do diretório "_connect" e renomeie-o para config.php, depois abra o arquivo e informe as credenciais de seu banco de dados

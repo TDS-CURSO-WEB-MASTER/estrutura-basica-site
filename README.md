@@ -1,4 +1,4 @@
-# tds
+# estrutura-basica-site
 # Deploy inicial
 
 # processo de instalação simples
@@ -9,7 +9,7 @@ Faça o download através do site: https://nodejs.org/en/, na sequência, efetue
 2 - Necessitaremos do git bash para executarmos comandos linux no windows (via command line), efetue o download da ferramenta através 
 do site: https://gitforwindows.org/ e execute a instalação.
 
-3 - Terminado o passo anterior, execute o git bash, o prompt de comando irá aparecer, na sequência, dê o seguinte comando (sem as aspas duplas): "cd C:/wamp/www/tds", leve em consideração que o caminho até o diretório Root do Wamp em que foi desenvolvido este projeto é o citado anteriormente sob aspas, porém, dependendo da versão instalado do wamp ou, caso, você tenha dado um outro nome para o diretório que conterá os binários a instrução mudará.
+3 - Terminado o passo anterior, execute o git bash, o prompt de comando irá aparecer, na sequência, dê o seguinte comando (sem as aspas duplas): "cd C:/wamp/www/estrutura-basica-site", leve em consideração que o caminho até o diretório Root do Wamp em que foi desenvolvido este projeto é o citado anteriormente sob aspas, porém, dependendo da versão instalada do wamp ou, caso, você tenha dado um outro nome para o diretório que conterá os binários(do wamp) a instrução mudará.
 
 4 - Feito a situação anterior, acesse via Git bash o diretório do projeto e rode as seguintes dependências(comandos):
 

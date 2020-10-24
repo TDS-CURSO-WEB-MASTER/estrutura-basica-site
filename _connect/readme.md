@@ -1,0 +1,1 @@
+# aqui ficará todos os arquivos responsáveis pela conexão da aplicação com o banco de dados
