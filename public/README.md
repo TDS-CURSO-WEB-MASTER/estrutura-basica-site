@@ -1,0 +1,1 @@
+# todos os arquivos de acesso público, devem ser criados neste diretório, com isso, ganhomos em segurança, evitando assim a exposição de algum pelo navegador
