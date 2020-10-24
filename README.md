@@ -13,8 +13,9 @@ do site: https://gitforwindows.org/ e execute a instalação.
 
 4 - Feito a situação anterior, acesse via Git bash o diretório do projeto e rode as seguintes dependências(comandos):
 
-# caso não informe o "@", que indica a versão a ser instalada, por padrão, automaticamente será instalada a última versão da dependência
-# disponível. Caso já exista um arquivo chamado package.lock.json e nele contenha um objeto "{}" com a chave "dependencies" e os respectivos valores jquery e bootstrap, ignore a execução dos comandos abaixo e rode somente o "npm install"
+# caso não informe o "@", que indica a versão a ser instalada, por padrão, automaticamente será instalada a última versão da dependência disponível.
+
+#Caso já exista um arquivo chamado package.lock.json e nele contenha um objeto "{}" com a chave "dependencies" e os respectivos valores jquery e bootstrap, ignore a execução dos comandos abaixo e rode somente o "npm install"
 
 # comando de instalação de dependência
 npm i jquery
