@@ -1,0 +1,6 @@
+/* Está folha de estilo será chamada em todas as páginas */
+
+.navbar-brand,
+#navbarNavDropdown .navbar-nav .nav-item {
+    padding: 0.75em !important;
+}

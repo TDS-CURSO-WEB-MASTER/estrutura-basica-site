@@ -15,7 +15,7 @@ do site: https://gitforwindows.org/ e execute a instalação.
 
 # caso não informe o "@", que indica a versão a ser instalada, por padrão, automaticamente será instalada a última versão da dependência disponível.
 
-#Caso já exista um arquivo chamado package.lock.json e nele contenha um objeto "{}" com a chave "dependencies" e os respectivos valores jquery e bootstrap, ignore a execução dos comandos abaixo e rode somente o "npm install"
+#Caso já exista um arquivo chamado package.lock.json e nele contenha um objeto "{}" com a chave "dependencies" e os respectivos valores jquery e bootstrap, ignore a execução dos comandos abaixo e rode somente o "npm install", depois de ter rodado o "npm install" o "ln -s ../node_modules public" para criar um link simbólico e mover as dependência para a nossa pasta pública.
 
 # comando de instalação de dependência
 npm i jquery

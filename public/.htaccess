@@ -1,3 +1,6 @@
+# relevância 1- https://king.host/wiki/artigo/removendo-extensoes-de-arquivos-das-urls/#customizacoes-da-regra
+# Apoio - https://www.codigofonte.com.br/artigos/confira-20-dicas-e-truques-extremamente-uteis-do-htaccess
+
 # documento root do projeto
 RewriteEngine On
 RewriteBase /estrutura-basica-site/
