@@ -8,11 +8,7 @@
 <body>
     <p>contato</p>
     <a href="<?php echo base_url()?>">Home</a>
-    <?php
-       print_r('<pre>');
-       print_r($_SERVER);
-       die;
-    ?>
+    
     <?php require_once __DIR__.'./../content/_footer.php'?>
 </body>
 
